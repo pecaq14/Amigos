@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "TipsySolo",
+    "slug": "tipsysolo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.tipsysolo.app",
+      "versionCode": 1,
+      "permissions": ["INTERNET"]
+    },
+    "plugins": ["@react-native-async-storage/async-storage"]
+  }
+}
